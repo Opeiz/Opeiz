@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on personal projects to further explore embedded systems and computer vision techniques.<br>👯 I’m looking to collaborate on open-source projects related to robotics, image processing, or embedded systems, especially those involving Python and C++.<br>🤝 I’m looking for help with expanding my knowledge in advanced deep learning models for image analysis and real-time embedded system development.<br>🌱 I’m currently learning more about advanced FPGA programming (VHDL/System Verilog) and exploring the intricacies of ROS (Robot Operating System).<br>⚡ Fun fact: I've been a skipper in sailing competitions like the CCE 57 and the Trophée de l'Île Pelée.
 
 
