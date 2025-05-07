@@ -29,7 +29,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Opeiz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Achievements
+# Coding Platforms
 
 - ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/5t3g0n?theme=dark&font=Consolas)
@@ -42,10 +42,7 @@
 - ### CodeAbbey
 [![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
 
-- ### CodinGame
-[![CodinGame](https://img.shields.io/badge/CodinGame-Profile-yellow?logo=CodinGame)]([https://www.codingame.com/profile/your_user_id](https://www.codingame.com/profile/fc82c2dc7dc4d51fd9976ce6249ee7be6996126))
-
-
+- ### CodinGame [![CodinGame](https://img.shields.io/badge/CodinGame-Opeiz-yellow?logo=CodinGame&logoColor=white)](https://www.codingame.com/profile/Opeiz)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Opeiz&icon=0&color=0)](https://visitcount.itsvg.in)
