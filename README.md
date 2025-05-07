@@ -31,7 +31,7 @@
 
 # Achievements
 ![LeetCode Stats](https://leetcard.jacoblin.cool/5t3g0n?theme=dark&font=Consolas)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)]([https://www.hackerrank.com/your_username](https://www.hackerrank.com/profile/ja_opazoy))
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
 [![CodinGame](https://img.shields.io/badge/CodinGame-Profile-yellow?logo=CodinGame)]([https://www.codingame.com/profile/your_user_id](https://www.codingame.com/profile/fc82c2dc7dc4d51fd9976ce6249ee7be6996126))
 [![HTB](https://www.hackthebox.com/badge/image/your_user_id)](https://app.hackthebox.com/profile/Opeiz)
 [![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
