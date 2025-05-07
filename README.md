@@ -37,8 +37,8 @@
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
 
-[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)
-[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c4ac9dacea2e)
+[![Python Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)
+[![Software Engineer Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c4ac9dacea2e)
 
 ### CodeAbbey
 [![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
