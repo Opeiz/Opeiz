@@ -30,11 +30,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Achievements
+
+### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/5t3g0n?theme=dark&font=Consolas)
+
+### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
-[![CodinGame](https://img.shields.io/badge/CodinGame-Profile-yellow?logo=CodinGame)]([https://www.codingame.com/profile/your_user_id](https://www.codingame.com/profile/fc82c2dc7dc4d51fd9976ce6249ee7be6996126))
-[![HTB](https://www.hackthebox.com/badge/image/your_user_id)](https://app.hackthebox.com/profile/Opeiz)
+
+[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)
+[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c4ac9dacea2e)
+
+### CodeAbbey
 [![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
+
+### CodinGame
+[![CodinGame](https://img.shields.io/badge/CodinGame-Profile-yellow?logo=CodinGame)]([https://www.codingame.com/profile/your_user_id](https://www.codingame.com/profile/fc82c2dc7dc4d51fd9976ce6249ee7be6996126))
+
 
 
 ---
