@@ -30,10 +30,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 # Coding Platforms
-
+<!--
 - ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/5t3g0n?theme=dark&font=Consolas)
-
+-->
 - ### HackerRank [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
 
 **Python Certificate** [![Python (Basic) Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)\
