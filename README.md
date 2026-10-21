@@ -1,27 +1,35 @@
-# About Me:
-🔭 I’m currently working on personal projects to further explore embedded systems and computer vision techniques.<br>👯 I’m looking to collaborate on open-source projects related to robotics, image processing, or embedded systems, especially those involving Python and C++.<br>🤝 I’m looking for help with expanding my knowledge in advanced deep learning models for image analysis and real-time embedded system development.<br>🌱 I’m currently learning more about advanced FPGA programming (VHDL/System Verilog) and exploring the intricacies of ROS (Robot Operating System).<br>⚡ Fun fact: I've been a skipper in sailing competitions like the CCE 57 and the Trophée de l'Île Pelée.
+# Hi there, I'm Joaquin Opazo Yentzen! 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ja.opazoy@gmail.com) 
-
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Opeiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Opeiz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
-# Coding Platforms
-<!--
-- ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/5t3g0n?theme=dark&font=Consolas)
--->
-- ### HackerRank [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
-
-**Python Certificate** [![Python (Basic) Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)\
-**Software Engineer Certificate** [![Software Engineer Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c4ac9dacea2e)
-
-- ### CodeAbbey
-[![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
-
-- ### CodinGame [![CodinGame](https://img.shields.io/badge/CodinGame-Opeiz-yellow?logo=CodinGame&logoColor=white)](https://www.codingame.com/profile/Opeiz)
+🔭 I’m currently working as a **C++/Qt & 3D Visualization Software Engineer** at ITER Systems, developing high-performance real-time 2D/3D display architectures and validating field equipment.
+👯 I’m looking to collaborate on open-source projects or innovative initiatives related to **Computer Vision, Robotics, and Embedded Systems** (C++ & Python).
+🤝 I’m looking to connect with engineers and developers in the fields of industrial vision, edge AI, and hardware-software integration.
+🌱 I’m currently diving deeper into advanced FPGA architectures, real-time inference optimization, and modern robotics pipelines (ROS).
+⚡ Fun fact: When I'm not writing low-level code or processing images, you can find me skippering sailboats in competitions like the CCE and Trophée de l'Île Pelée, or building custom hardware/miniatures.
 
 ---
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** C++, Python, Verilog/VHDL
+- **Frameworks & Libraries:** Qt/QML, OpenCV, PyTorch, VTK, REST APIs
+- **Embedded & Hardware:** Linux, FPGA (Zynq-7000, Vivado, Vitis), RISC-V, Embedded Electronics
+- **Tools:** Git, Visual Studio, VS Code, KiCad, Blender, Adobe Suite
+
+---
+
+## 🌐 Connect with Me:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ja.opazoy@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-opazo-yentzen)
+
+---
+
+# 💻 Coding & Platforms
+
+- ### HackerRank [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ja_opazoy)
+  - **Python (Basic) Certificate** [![Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/dd4a8a43d886)
+  - **Software Engineer Certificate** [![Certificate](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c4ac9dacea2e)
+
+- ### CodeAbbey
+  [![Opeiz at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/tgn.png)](https://www.codeabbey.com/index/user_profile/tgn)
+
+- ### CodinGame 
+  [![CodinGame](https://img.shields.io/badge/CodinGame-Opeiz-yellow?logo=CodinGame&logoColor=white)](https://www.codingame.com/profile/Opeiz)
