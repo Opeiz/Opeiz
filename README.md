@@ -1,4 +1,4 @@
-# Hi there, I'm Joaquin Opazo Yentzen! 👋
+# Hi there, I'm Joaquin! 👋
 
 🔭 I’m currently working as a **C++/Qt & 3D Visualization Software Engineer** at ITER Systems, developing high-performance real-time 2D/3D display architectures and validating field equipment.
 👯 I’m looking to collaborate on open-source projects or innovative initiatives related to **Computer Vision, Robotics, and Embedded Systems** (C++ & Python).
